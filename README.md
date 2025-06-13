@@ -54,6 +54,25 @@ This are the result and finding.
 - Arrest was mostly made around 12:00am am with a total number of 304 Males ,108 females.
 - A total number of 11.39k Black/African American were arrested making them the highest number of Suspects arrested based on Race.
 
+### Results and Findings
+A total number of 11.39k Black/African American were arrested making them the highest number of Suspects arrested based on Race.
+
+### Recommendation
+- To reduce the number of crimes and arrest rate in the society:
+- Information should be publicly shared to let people know the police frown against crimes, and arrest will be made if one is caught breaking the laws.
+
+### Conclusion
+-This is a Dataset that shows the number of 
+
+### Reference
+Guidance and Mentorship was given by MR Mandela of Techrative Technology. 
+
+
+
+
+
+
+
 
 
 
